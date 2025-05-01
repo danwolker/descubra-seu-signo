@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <icone>♈</icone>
+    <descricao>Áries é um signo de ação, iniciativa e coragem. Pessoas arianas tendem a ser líderes natos, impulsivos, dinâmicos e movidos por desafios.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Marte</planeta>
+    <cor>Vermelho</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <icone>♉</icone>
+    <descricao>Taurinos são conhecidos por sua praticidade, paciência e apego à estabilidade. Apreciam conforto, segurança e tudo o que envolve os prazeres da vida.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Vênus</planeta>
+    <cor>Verde</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <icone>♊</icone>
+    <descricao>Geminianos são versáteis, comunicativos e intelectualmente curiosos. Possuem facilidade em se adaptar a diferentes ambientes e ideias.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Mercúrio</planeta>
+    <cor>Amarelo</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <icone>♋</icone>
+    <descricao>Cancerianos são sensíveis, intuitivos e protetores. Valorizam vínculos emocionais profundos e têm forte conexão com o lar e a família.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Lua</planeta>
+    <cor>Branco</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <icone>♌</icone>
+    <descricao>Leoninos são confiantes, carismáticos e generosos. Amam ser o centro das atenções e irradiam energia positiva e entusiasmo por onde passam.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Sol</planeta>
+    <cor>Dourado</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <icone>♍</icone>
+    <descricao>Virginianos são organizados, analíticos e detalhistas. Buscam sempre a perfeição e têm grande capacidade de observação e serviço.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Mercúrio</planeta>
+    <cor>Bege</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <icone>♎</icone>
+    <descricao>Librianos prezam pelo equilíbrio, harmonia e justiça. São diplomáticos, elegantes e têm uma forte apreciação pela beleza e pelos relacionamentos.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Vênus</planeta>
+    <cor>Rosa</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <icone>♏</icone>
+    <descricao>Escorpianos são intensos, apaixonados e profundos. Possuem grande capacidade de transformação, mistério e poder pessoal.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Plutão</planeta>
+    <cor>Preto</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <icone>♐</icone>
+    <descricao>Sagitarianos são otimistas, aventureiros e idealistas. Têm sede por liberdade, conhecimento e experiências que expandam seus horizontes.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Júpiter</planeta>
+    <cor>Azul</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <icone>♑</icone>
+    <descricao>Capricornianos são disciplinados, responsáveis e persistentes. Têm grande ambição e valorizam o trabalho duro e a estabilidade.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Saturno</planeta>
+    <cor>Marrom</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <icone>♒</icone>
+    <descricao>Aquarianos são inovadores, independentes e visionários. Pensam no coletivo, adoram ideias progressistas e prezam pela liberdade.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Urano</planeta>
+    <cor>Ciano</cor>
+  </signo>
+
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <icone>♓</icone>
+    <descricao>Piscianos são sensíveis, intuitivos e sonhadores. Têm grande empatia, imaginação e conexão com o mundo emocional e espiritual.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Netuno</planeta>
+    <cor>Violeta</cor>
+  </signo>
+</signos>
